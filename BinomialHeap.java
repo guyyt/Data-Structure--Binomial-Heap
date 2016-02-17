@@ -1,7 +1,7 @@
 import java.util.Arrays;
 /**
- * BinomialHeap
- *
+ * BinomialHeap in Java
+ *By Guy Yom Tov
  */
 public class BinomialHeap {
 	
